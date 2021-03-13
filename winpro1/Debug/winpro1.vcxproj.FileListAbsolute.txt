@@ -1,0 +1,2 @@
+Q:\program\winpro\winpro1\Debug\winpro1.exe
+Q:\program\winpro\winpro1\Debug\winpro1.pdb
